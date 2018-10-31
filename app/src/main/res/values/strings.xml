@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">sharedPreferences</string>
+    <string name="buttoninput">Reference Input</string>
+    <string name="buttonoutput">Reference Output</string>
+    <string name="textView">Shared Preference</string>
 </resources>
