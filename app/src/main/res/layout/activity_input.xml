@@ -28,6 +28,22 @@
             android:hint="@string/editText"
             android:inputType="textPersonName" />
 
+        <EditText
+            android:id="@+id/editTextpw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/editTextpw"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/editTextemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/editTextemail"
+            android:inputType="textPersonName" />
+
         <Button
             android:id="@+id/button"
             android:layout_width="wrap_content"

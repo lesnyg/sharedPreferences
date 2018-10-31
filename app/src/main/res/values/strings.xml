@@ -6,4 +6,7 @@
     <string name="textViewinput">Shared Preference</string>
     <string name="button">Save</string>
     <string name="editText">name</string>
+    <string name="textView2">Shared Preference</string>
+    <string name="editTextpw">PassWord</string>
+    <string name="editTextemail">E-mail</string>
 </resources>

@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
                 startActivityForResult(intent,1000);
                 break;
             case R.id.buttonoutput:
-                Intent intent1 = new Intent(this, inputActivity.class);
+                Intent intent1 = new Intent(this, getActivity.class);
                 startActivityForResult(intent1,1000);
                 break;
         }
