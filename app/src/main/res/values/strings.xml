@@ -3,4 +3,7 @@
     <string name="buttoninput">Reference Input</string>
     <string name="buttonoutput">Reference Output</string>
     <string name="textView">Shared Preference</string>
+    <string name="textViewinput">Shared Preference</string>
+    <string name="button">Save</string>
+    <string name="editText">name</string>
 </resources>
